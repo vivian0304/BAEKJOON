@@ -1,3 +1,5 @@
+// 문제 번호 2577
+
 import java.util.LinkedList;
 import java.util.Scanner;
 
