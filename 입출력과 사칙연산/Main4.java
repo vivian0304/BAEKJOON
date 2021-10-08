@@ -1,3 +1,5 @@
+// 문제 번호 10172
+
 public class Main4{
     public static void main(String args[]){
         System.out.println("|\\_/|");
