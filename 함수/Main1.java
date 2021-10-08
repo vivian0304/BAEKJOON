@@ -1,3 +1,5 @@
+// 문제 번호 15596
+
 public class Main1 {
 	long sum(int[] a) {
 		long sum = 0;
