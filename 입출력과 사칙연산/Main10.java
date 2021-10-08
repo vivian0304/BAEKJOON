@@ -1,3 +1,5 @@
+// 문제 번호 10430
+
 import java.util.Scanner;
 
 public class Main10{
