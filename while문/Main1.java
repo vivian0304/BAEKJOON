@@ -1,3 +1,5 @@
+// 문제 번호 10952
+
 import java.util.*;
 
 public class Main1{
