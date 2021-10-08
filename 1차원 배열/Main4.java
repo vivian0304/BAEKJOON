@@ -1,3 +1,5 @@
+// 문제 번호 3052
+
 import java.util.Arrays;
 import java.util.Scanner;
 
